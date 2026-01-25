@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

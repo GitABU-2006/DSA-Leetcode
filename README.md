@@ -13,6 +13,7 @@
 | [0009-palindrome-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

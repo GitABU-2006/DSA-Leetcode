@@ -15,6 +15,7 @@
 | [0050-powx-n](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0223-rectangle-area](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->

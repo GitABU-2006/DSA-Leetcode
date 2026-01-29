@@ -15,6 +15,7 @@
 | [0050-powx-n](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0223-rectangle-area) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

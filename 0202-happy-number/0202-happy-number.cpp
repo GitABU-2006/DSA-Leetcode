@@ -3,19 +3,19 @@ public:
     bool isHappy(int n) {
 
         while (n != 1) {
-            int sum = 0;          // ✅ reset EVERY time
+            int sum = 0;          
 
-            while (n > 0) {       // ✅ digit extraction only
+            while (n > 0) {       
                 int ld = n % 10;
                 sum += ld * ld;
                 n /= 10;
             }
 
-            n = sum;              // update number
+            n = sum;              
 
-            if (n == 4) return false;  // ❌ non-happy cycle
+            if (n == 4) return false;  
         }
 
-        return true;              // n == 1
+        return true;              
     }
 };

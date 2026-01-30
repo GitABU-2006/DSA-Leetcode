@@ -17,6 +17,7 @@
 | [0069-sqrtx](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

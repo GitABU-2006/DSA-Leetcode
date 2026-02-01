@@ -18,12 +18,14 @@
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |

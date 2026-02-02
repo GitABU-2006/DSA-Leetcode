@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0058-length-of-last-word](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -33,6 +33,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
+| [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
 <!---LeetCode Topics End-->

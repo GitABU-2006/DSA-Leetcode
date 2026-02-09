@@ -24,6 +24,7 @@
 | [0326-power-of-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->

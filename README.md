@@ -23,6 +23,7 @@
 | [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
@@ -69,6 +70,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |

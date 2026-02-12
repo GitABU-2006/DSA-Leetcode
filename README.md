@@ -40,6 +40,7 @@
 | [0001-two-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |

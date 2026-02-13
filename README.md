@@ -39,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |

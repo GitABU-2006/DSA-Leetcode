@@ -57,6 +57,7 @@
 | [0008-string-to-integer-atoi](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
@@ -86,6 +87,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Simulation
 |  |
 | ------- |

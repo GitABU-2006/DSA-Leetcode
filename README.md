@@ -85,6 +85,7 @@
 | [0504-base-7](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
+| [1446-consecutive-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |

@@ -1,8 +1,9 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        vector<int>result;
+        if(nums.size()==0){
+            return 0;
+        }
 
         int k = 1;
         for(int i = 1 ; i<nums.size() ; i++){

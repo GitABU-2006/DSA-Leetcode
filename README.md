@@ -56,6 +56,7 @@
 | [0136-single-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
@@ -65,6 +66,7 @@
 | [0001-two-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
@@ -158,6 +160,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |

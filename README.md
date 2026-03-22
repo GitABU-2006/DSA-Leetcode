@@ -87,6 +87,7 @@
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0504-base-7](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0520-detect-capital) |
@@ -131,6 +132,7 @@
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0443-string-compression) |
 ## Simulation
 |  |
 | ------- |

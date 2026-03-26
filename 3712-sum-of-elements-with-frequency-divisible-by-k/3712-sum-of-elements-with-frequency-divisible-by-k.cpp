@@ -11,8 +11,8 @@ public:
                 count++;
             } else {
                 if (count % k == 0) {
-                    for (int x = j; x < j + count; x++) {
-                        sum += nums[x];
+                    for (int l = j; l < j + count; l++) {
+                        sum += nums[l];
                     }
                 }
                 j = i;

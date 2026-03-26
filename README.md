@@ -62,6 +62,7 @@
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |

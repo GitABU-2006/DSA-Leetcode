@@ -59,6 +59,7 @@
 | [0162-find-peak-element](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Recursion
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0412-fizz-buzz) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Number Theory
 |  |
 | ------- |

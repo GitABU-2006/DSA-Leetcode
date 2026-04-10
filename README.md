@@ -33,6 +33,7 @@
 | [0728-self-dividing-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0238-product-of-array-except-self](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table

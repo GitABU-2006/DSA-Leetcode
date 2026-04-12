@@ -11,14 +11,18 @@ public:
             int beg = 0 , end = arr.size()-1 ;
             while(end>beg){
                 int mid = (beg+end)/2;
-                if(arr[mid]>arr[mid+1] ){
-                    end = mid;
+                if(arr[mid]>arr[mid+1] and arr[mid]>arr[mid-1] ){
+                    return mid;
+                }
+                else if(arr[mid]>arr[mid-1]) {
+                    beg = mid+1;
                 }
                 else{
-                    beg=mid+1;
+                    end = mid ; 
                 }
                 
             } 
-            return beg;
+            return -1;
+            
     }
 };

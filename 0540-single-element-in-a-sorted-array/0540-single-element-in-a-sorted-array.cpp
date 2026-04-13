@@ -7,6 +7,7 @@ public:
 
             bool a = (mid==0 or nums[mid-1]!=nums[mid]);
             bool b = (mid==end or nums[mid+1]!=nums[mid]);
+            
             if(a and b){
                 return nums[mid];
             }

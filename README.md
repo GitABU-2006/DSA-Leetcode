@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0344-reverse-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |

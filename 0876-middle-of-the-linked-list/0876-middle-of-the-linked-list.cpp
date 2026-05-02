@@ -21,7 +21,6 @@ public:
 
         temp = head ; 
         for(int i = 0 ; i<mid ; i++){
-            cout<<temp->next;
             temp = temp->next;
         }
         return temp;

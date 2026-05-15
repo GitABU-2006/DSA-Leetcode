@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -45,6 +46,7 @@
 | [0050-powx-n](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -145,6 +147,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0443-string-compression) |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

@@ -18,9 +18,9 @@ public:
             fast = fast->next->next ; 
         }
 
-        if(fast!=NULL){
-            slow = slow->next ; 
-        }
+        // if(fast!=NULL){
+        //     slow = slow->next ; 
+        // }
 
         ListNode* curr = slow ; 
         ListNode* prev = NULL ; 

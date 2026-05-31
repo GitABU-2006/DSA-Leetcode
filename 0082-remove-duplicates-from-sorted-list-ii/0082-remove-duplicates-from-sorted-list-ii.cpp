@@ -19,8 +19,8 @@ public:
         ListNode* curr = head ;
 
         while(curr!=NULL){
-            if(curr->next and curr->val == curr->next->val){
-                while(curr->next and curr->val==curr->next->val){
+            if(curr->next!=NULL and curr->val == curr->next->val){
+                while(curr->next!=NULL and curr->val==curr->next->val){
                     curr = curr->next;
                 }
                 prev->next = curr->next;

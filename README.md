@@ -45,6 +45,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table

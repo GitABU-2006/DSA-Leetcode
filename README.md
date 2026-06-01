@@ -83,6 +83,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -212,11 +213,13 @@
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
 | ------- |

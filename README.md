@@ -82,6 +82,7 @@
 | [0217-contains-duplicate](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -103,6 +104,7 @@
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -215,6 +217,7 @@
 | [0217-contains-duplicate](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

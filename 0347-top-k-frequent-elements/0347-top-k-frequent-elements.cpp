@@ -10,7 +10,7 @@ public:
         for(auto x : A){
             B.push_back({x.second , x.first});
         }
-        sort(B.begin() , B.end() , greater<pair<int,int>>());
+        sort(B.rbegin() , B.rend());
 
         vector<int>C;
         for(int i = 0 ; i<k ; i++){

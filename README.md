@@ -96,6 +96,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
@@ -238,6 +239,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |

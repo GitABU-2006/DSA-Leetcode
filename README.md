@@ -99,6 +99,7 @@
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3838-weighted-word-mapping](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [1446-consecutive-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1446-consecutive-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0412-fizz-buzz) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3838-weighted-word-mapping](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |

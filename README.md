@@ -87,6 +87,7 @@
 | [0347-top-k-frequent-elements](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
@@ -113,6 +114,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [2363-merge-similar-items](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2363-merge-similar-items) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
 |  |

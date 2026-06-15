@@ -15,6 +15,7 @@
 | [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -193,6 +194,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |

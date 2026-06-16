@@ -9,14 +9,7 @@ public:
             }
             else if(s[i]=='%'){
                 if(!result.empty()){
-                    int left = 0;
-                    int right = result.size() - 1;
-
-                    while(left < right){
-                        swap(result[left], result[right]);
-                        left++;
-                        right--;
-                    }
+                    reverse(result.begin() , result.end());
                 }
                 
             }

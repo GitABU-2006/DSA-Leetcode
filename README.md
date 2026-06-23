@@ -79,6 +79,7 @@
 | [0075-sort-colors](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0204-count-primes) |
@@ -223,6 +224,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0466-count-the-repetitions](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0509-fibonacci-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1227-airplane-seat-assignment-probability) |

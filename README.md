@@ -98,6 +98,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2363-merge-similar-items](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2363-merge-similar-items) |
@@ -152,6 +153,7 @@
 | [1446-consecutive-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1446-consecutive-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3340-check-balanced-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3612-process-string-with-special-operations-i) |

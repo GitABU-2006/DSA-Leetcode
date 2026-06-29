@@ -7,15 +7,10 @@ public:
             int b = a.size() ; 
 
             for(int j = 0 ; j+b<=word.size(); j++){
-                string c;
-                for(int k = 0 ; k<b ; k++){
-                    c+=word[k+j];
-                }
-                if(c==a){
-                    count++ ; 
-                    break ;
-                }
-                
+                if (word.substr(j, b) == a) {
+                    count++;
+                    break;
+                }  
             }
         }
         return count ;

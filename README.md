@@ -91,6 +91,7 @@
 | [0347-top-k-frequent-elements](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -321,4 +324,8 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2363-merge-similar-items) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

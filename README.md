@@ -51,6 +51,7 @@
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |

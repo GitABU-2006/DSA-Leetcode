@@ -2,18 +2,19 @@ class Solution {
 public:
     long long sumAndMultiply(int n) {
         long long store = 0 ; 
-        string s = to_string(n);
+        int multi = 1 ; 
         int sum = 0 ; 
-        
 
-        for(auto num : s){
-            if(num!='0'){
-                int nums = num - '0' ; 
-                store = store*10 + nums ; 
-                sum += nums ; 
+        while(n>0){
+            int dig = n%10 ; 
 
+            if(dig != 0){
+                store = dig*multi + store ; 
+                multi *=10  ;
+                sum +=dig ;  
             }
-        }
-        return store*sum ; 
+            n/=10 ; 
+        } 
+        return sum*store ; 
     }
 };

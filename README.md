@@ -98,6 +98,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -130,6 +131,7 @@
 | [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2363-merge-similar-items](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2363-merge-similar-items) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -264,6 +266,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |

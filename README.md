@@ -102,6 +102,7 @@
 | [1288-remove-covered-intervals](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1441-build-an-array-with-stack-operations](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1732-find-the-highest-altitude](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -226,6 +227,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0412-fizz-buzz) |
+| [1441-build-an-array-with-stack-operations](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3612-process-string-with-special-operations-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -319,6 +321,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |

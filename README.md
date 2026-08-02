@@ -44,6 +44,7 @@
 | [0509-fibonacci-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -99,6 +100,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -253,6 +255,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0466-count-the-repetitions](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0466-count-the-repetitions) |
 | [0509-fibonacci-number](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3640-trionic-array-ii](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3640-trionic-array-ii) |
 ## Queue
@@ -353,4 +356,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

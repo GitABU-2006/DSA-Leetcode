@@ -261,6 +261,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -360,4 +362,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

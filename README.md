@@ -105,6 +105,7 @@
 | [0877-stone-game](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -372,4 +373,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->

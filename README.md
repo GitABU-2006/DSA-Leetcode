@@ -144,6 +144,7 @@
 | [0771-jewels-and-stones](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2363-merge-similar-items](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/2363-merge-similar-items) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -172,6 +173,7 @@
 | [1446-consecutive-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/GitABU-2006/DSA-Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
